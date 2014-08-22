@@ -1,0 +1,4 @@
+parties
+=======
+
+Meteor Parties Example
